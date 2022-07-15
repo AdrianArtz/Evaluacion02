@@ -1,0 +1,39 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Adrian/Desktop/U2/Evaluacion02/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Adrian/Desktop/U2/Evaluacion02/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" in Library work.
+Entity <ejercicio3> compiled.
+ERROR:HDLParsers:506 - "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" Line 17. control is not a correct subtype name
+ERROR:HDLParsers:164 - "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" Line 18. parse error, unexpected SEMICOLON, expecting COMMA or COLON
+ERROR:HDLParsers:164 - "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" Line 19. parse error, unexpected SEMICOLON, expecting COMMA or COLON
+ERROR:HDLParsers:3312 - "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" Line 25. Undefined symbol 'Z2'.
+ERROR:HDLParsers:1209 - "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd" Line 25. Z2: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+
+Total memory usage is 208816 kilobytes
+
+Number of errors   :    5 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

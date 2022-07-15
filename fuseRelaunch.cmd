@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3_isim_beh.exe" -prj "C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3_beh.prj" "work.Ejercicio3" 

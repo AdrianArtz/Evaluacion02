@@ -1,0 +1,21 @@
+V3 10
+FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio1.vhd 2022/07/15.13:38:49 P.20131013
+EN work/Ejercicio1 1657910330 \
+      FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Ejercicio1/Behavioral 1657910331 \
+      FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio1.vhd \
+      EN work/Ejercicio1 1657910330
+FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio2.vhd 2022/07/15.12:20:06 P.20131013
+EN work/Ejercicio2 1657905607 \
+      FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Ejercicio2/Behavioral 1657905608 \
+      FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio2.vhd \
+      EN work/Ejercicio2 1657905607
+FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd 2022/07/15.12:54:01 P.20131013
+EN work/Ejercicio3 0 FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Ejercicio3/Behavioral 0 \
+      FL C:/Users/Adrian/Desktop/U2/Evaluacion02/Ejercicio3.vhd \
+      EN work/Ejercicio3 0 CP out
